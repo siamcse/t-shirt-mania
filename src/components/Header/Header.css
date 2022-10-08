@@ -1,0 +1,10 @@
+.header a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: black;
+}
+.header a:hover{
+    background: orange;
+}
